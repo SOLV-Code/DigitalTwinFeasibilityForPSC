@@ -35,4 +35,28 @@ This paper is focused on a very different setting (industrial manufacturing), bu
 This paper provides a perspective what a digital twin is and is not, within the context of ecology. Specifically, they argue that digital twins *"are not just big models of everything, containing big data and machine learning. Rather, the strength of DTs is in combining data, models, and domain knowledge, and their continuous alignment with the real world."* That is a much broader definition of digital twins than the one used by [Kritzinger et al. 2018](https://github.com/SOLV-Code/DigitalTwinFeasibilityForPSC/tree/main/AnnotatedBibliography#kritzinger-et-al-2018) in a manufactoring context, who would consider these ecological models *digital shadows* rather than *digital twins*. 
 
 
-## PSC Models
+## PSC Models - Fraser Sockeye
+
+
+### McKinnell (1997) - Fraser Sockeye Diversion Rate
+
+**McKinnell, S. (1997) Assessing the historical estimates of northern diversion of Fraser River sockeye salmon. [PSARC Working Paper S97-1](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/364129.pdf)**
+
+
+
+### DFO (2016) - Fraser Sockeye Timing and Diversion
+
+**DFO (2016) Run Timing and Diversion Rate Models for Fraser River Sockeye. [DFO Can. Sci. Advis. Sec. Sci. Advis. Rep. 2016/008](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/365448.pdf)**
+
+
+
+
+### Folkes et al. (2018) - Fraser Sockeye Timing and Diversion
+
+**Folkes, M.J.P., Thomson, R.E., and Hourston, R.A.S. 2018. Evaluating Models to Forecast Return Timing and Diversion Rate of Fraser Sockeye Salmon. [DFO Can. Sci. Advis. Sec. Res. Doc. 2017/021. vi + 220 p.](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40678118.pdf)**
+
+
+
+
+
+
