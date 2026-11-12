@@ -2,7 +2,7 @@
 
 ## Organizing Team
 
-* **Gottfried Pestal** ([SOLV Consulting](https://www.solv.ca/),ORCID: [0000-0002-2499-8982](https://orcid.org/0000-0002-2499-8982))
+* **Gottfried Pestal** ([SOLV Consulting](https://www.solv.ca/), ORCID: [0000-0002-2499-8982](https://orcid.org/0000-0002-2499-8982))
 
 * **Scott Akenhead** (ORCID: [0000-0003-1218-3118](https://orcid.org/0000-0003-1218-3118))
 
