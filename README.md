@@ -18,7 +18,7 @@ The main deliverable for this process is a feasibility study establishing clear 
 
 REF TEST
 
-([Kritzinger et al. 2018] (https://github.com/SOLV-Code/DigitalTwinFeasibilityForPSC/tree/main/AnnotatedBibliography#kritzinger-et-al-2018))
+([Kritzinger et al. 2018](https://github.com/SOLV-Code/DigitalTwinFeasibilityForPSC/tree/main/AnnotatedBibliography#kritzinger-et-al-2018))
 
 
 

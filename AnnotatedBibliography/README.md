@@ -28,9 +28,14 @@ This paper is focused on a very different setting (industrial manufacturing), bu
 ## Digital Twins - Other Biological / Ecological Applications
 
 
+### De Koning et al. (2023)
 
-de Koning K,1,@ Jeroen Broekhuijsen,2 Ingolf Kühn ,3,4,5 Otso Ovaskainen ,6,7,8
-Franziska Taubert ,9 Dag Endresen ,10,* Dmitry Schigel ,11,@ and Volker Grimm 5,9,12
+**de Koning K,1, J. Broekhuijsen, I. Kühn, O. Ovaskainen, F. Taubert,. D. Endresen, D. Schigel, and V. Grimm (2023) Digital twins: dynamic model-data fusion for
+ecology. [Trends in Ecology & Evolution, October 2023, Vol. 38, No. 10](https://doi.org/10.1016/j.tree.2023.04.010)**
+
+
+
+([Kritzinger et al. 2018](https://github.com/SOLV-Code/DigitalTwinFeasibilityForPSC/tree/main/AnnotatedBibliography#kritzinger-et-al-2018))
 
 
 ## PSC Models
