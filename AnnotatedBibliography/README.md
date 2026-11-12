@@ -30,12 +30,9 @@ This paper is focused on a very different setting (industrial manufacturing), bu
 
 ### De Koning et al. (2023)
 
-**de Koning K,1, J. Broekhuijsen, I. Kühn, O. Ovaskainen, F. Taubert,. D. Endresen, D. Schigel, and V. Grimm (2023) Digital twins: dynamic model-data fusion for
-ecology. [Trends in Ecology & Evolution, October 2023, Vol. 38, No. 10](https://doi.org/10.1016/j.tree.2023.04.010)**
+**de Koning K, J. Broekhuijsen, I. Kühn, O. Ovaskainen, F. Taubert,. D. Endresen, D. Schigel, and V. Grimm (2023) Digital twins: dynamic model-data fusion for ecology. [Trends in Ecology & Evolution, October 2023, Vol. 38, No. 10](https://doi.org/10.1016/j.tree.2023.04.010)**
 
-
-
-([Kritzinger et al. 2018](https://github.com/SOLV-Code/DigitalTwinFeasibilityForPSC/tree/main/AnnotatedBibliography#kritzinger-et-al-2018))
+This paper provides a perspective what a digital twin is and is not, within the context of ecology. Specifically, they argue that digital twins *"are not just big models of everything, containing big data and machine learning. Rather, the strength of DTs is in combining data, models, and domain knowledge, and their continuous alignment with the real world."* That is a much broader definition of digital twins than the one used by [Kritzinger et al. 2018](https://github.com/SOLV-Code/DigitalTwinFeasibilityForPSC/tree/main/AnnotatedBibliography#kritzinger-et-al-2018) in a manufactoring context, who would consider these ecological models *digital shadows* rather than *digital twins*. 
 
 
 ## PSC Models
