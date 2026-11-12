@@ -18,7 +18,17 @@ A digital twin approach could be used to update the existing models and explore 
 
 [McKinnell (1997)](https://github.com/SOLV-Code/DigitalTwinFeasibilityForPSC/tree/main/AnnotatedBibliography#mckinnell-1997---fraser-sockeye-diversion-rate) systematically reviewed previous estimates of diversion rate and explored biases associated with simplifying assumptions related to timing and abundance moving through different fisheries. Pre-season forecasting of diversion rates was not attempted at the time, because diversion rate estimates were mainly used for post-season evaluation of Canada-U.S. harvest sharing targets.
 
-As fisheries and the bilateral management approach evolved, estimates of timing and diversion became more important for pre-season planning. A comprehensive analysis of candidate forecasting models was completed in 2016 ([DFO (2016)]( https://github.com/SOLV-Code/DigitalTwinFeasibilityForPSC/tree/main/AnnotatedBibliography#dfo-2016---fraser-sockeye-timing-and-diversion), [Folkes et al. 2018](https://github.com/SOLV-Code/DigitalTwinFeasibilityForPSC/tree/main/AnnotatedBibliography#folkes-et-al-2018---fraser-sockeye-timing-and-diversion)). Environmental variables included sea surface temperature and current velocity at different locations and times (e.g., near-real time estimates from North East Pacific Salmon Tracking And Research, NEPSTAR) , Ekman transport (variations in the southward displacement of young fish by equatorward flowing boundary currents), wind stress, sea level (mean along west coast of Vancouver Island, north-south differences along east coast of Vancouver Island), Fraser River discharge, El Niño events, and even variations in the earth's geomagnetic field. Table 2 in [Folkes et al. 2018](https://github.com/SOLV-Code/DigitalTwinFeasibilityForPSC/tree/main/AnnotatedBibliography#folkes-et-al-2018---fraser-sockeye-timing-and-diversion)) summarizes the tested variables and the temporal resolution (daily, monhtly) available at the time.
+As fisheries and the bilateral management approach evolved, estimates of timing and diversion became more important for pre-season planning. A comprehensive analysis of candidate forecasting models was completed in 2016 ([DFO 2016]( https://github.com/SOLV-Code/DigitalTwinFeasibilityForPSC/tree/main/AnnotatedBibliography#dfo-2016---fraser-sockeye-timing-and-diversion), [Folkes et al. 2018](https://github.com/SOLV-Code/DigitalTwinFeasibilityForPSC/tree/main/AnnotatedBibliography#folkes-et-al-2018---fraser-sockeye-timing-and-diversion)). Environmental variables included:
+
+* sea surface temperature and current velocity at different locations and times (e.g., near-real time estimates from North East Pacific Salmon Tracking And Research, NEPSTAR)
+* Ekman transport (variations in the southward displacement of young fish by equatorward flowing boundary currents)
+* wind stress
+* sea level (mean along west coast of Vancouver Island, north-south differences along east coast of Vancouver Island)
+* Fraser River discharge
+* El Niño events
+* variations in the earth's geomagnetic field. 
+
+Table 2 in [Folkes et al. (2018)](https://github.com/SOLV-Code/DigitalTwinFeasibilityForPSC/tree/main/AnnotatedBibliography#folkes-et-al-2018---fraser-sockeye-timing-and-diversion) summarizes the tested variables and the temporal resolution (daily, monhtly) available at the time.
 
 
 *Any major developments since then?*
