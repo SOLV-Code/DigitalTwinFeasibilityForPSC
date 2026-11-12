@@ -16,6 +16,14 @@ The main deliverable for this process is a feasibility study establishing clear 
 * [Markdown: Main Report](https://github.com/SOLV-Code/DigitalTwinFeasibilityForPSC/tree/main/Markdown_MainReport)
 
 
+REF TEST
+
+([Kritzinger et al. 2018] (https://github.com/SOLV-Code/DigitalTwinFeasibilityForPSC/tree/main/AnnotatedBibliography#kritzinger-et-al-2018))
+
+
+
+
+
 ## Timeline
 
 This project will progress through four distinct phases. The preparation phase has started as part of the proposal development. The general scoping phase will then start off the more intensive expert process with a focus on sorting out definitions and identifying best practices, planned to coincide with the PSC’s pre-season planning activities. The bulk of the project timeline is dedicated to the PSC-focused phase, which will coordinate qualitative evaluations of specific digital twin ideas while existing decision-support tools and data flows are in active use during the season. Finally, the synthesis phase will consolidate the discussions and feedback into clear, practical recommendations and identify a shortlist of 2-3 feasible and potentially useful digital twin candidates with detailed technical specifications.
