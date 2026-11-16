@@ -1,5 +1,5 @@
 # Digital Twin Feasibility For PSC
-Development repository for feasibility study of Digital Twins in a Pacific Salmon Commission context
+Development repository for feasibility study of Digital Twins in a Pacific Salmon Commission context.
 
 ## Structure
 
